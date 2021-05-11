@@ -3,7 +3,7 @@
 > 이 프로젝트는 직방 사이트를 참조하여 학습목적으로 만들었습니다. 실무수준의 프로젝트이지만 학습용으로 만들었기 때문에 이 코드를 활용하여 이득을 취하거나 무단 배포할 경우 법적으로 문제될 수 있습니다.
 
 ## Overview
->레이아웃은 직방 웹페이지를 참고했으며, 지역별 매물이 아닌 맛집 정보를 제공하는 사이트로 기획, 제작하였다. -> [먹방 프로젝트 기획내용 바로보기](https://velog.io/@songbetter/%EC%A7%81%EB%B0%A9-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%8C%80-%EB%B0%9C%ED%91%9C)
+>레이아웃은 직방 웹페이지를 참고했으며, 지역별 매물이 아닌 맛집 정보를 제공하는 사이트로 기획, 제작했습니다. -> [먹방 프로젝트 기획내용 바로보기](https://velog.io/@songbetter/%EC%A7%81%EB%B0%A9-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%8C%80-%EB%B0%9C%ED%91%9C)
 
 * **GitHub Repository** Front: [2nd-mukbang-frontend](https://github.com/wecode-bootcamp-korea/18-2nd-mukbang-frontend), Back: [2nd-mukbang-backend](https://github.com/wecode-bootcamp-korea/18-2nd-mukbang-backend)
 * **작업기간** 2021/3/29 ~ 2021/4/9
