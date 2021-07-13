@@ -19,6 +19,7 @@
 ## 결과
 ### Map
 카카오맵 API 클러스터러, 마커. 지도 레벨에 따라 보여지는 가게의 수가 달라진다.
+![image](https://user-images.githubusercontent.com/75013112/125447404-c0332b3f-b6cd-41c8-8264-6c587d5ca97f.png)
 ### Login & Signup
 카카오계정연동 및 자체 회원가입. 문자인증. 컴포넌트 재사용
 ![](https://images.velog.io/images/songbetter/post/b703c10f-fe36-4234-ac8d-228b231ae425/image.png)
@@ -30,7 +31,7 @@
 * 이미지 슬라이더, 찜하기, 메뉴판/리스트 보기, 메뉴 더보기
 ![](https://images.velog.io/images/songbetter/post/b012a738-1133-4240-aacf-64fdab872eee/image.png)
 * 토글, 별점, 리뷰![](https://images.velog.io/images/songbetter/post/c0e57b33-574e-40d2-85d3-5f2f3023066a/image.png)
-* 카카오맵 API 현재 위치 지도, 로드뷰
+* 카카오맵 API 현재 위치 지도, 로드뷰![image](https://user-images.githubusercontent.com/75013112/125447573-29d582fa-d6d2-4da9-aafb-965b043706ad.png)
 
 ### Favorite ⭐
 StoreDetail 페이지에서 찜한 가게를 모아볼 수 있는 페이지
