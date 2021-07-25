@@ -42,3 +42,5 @@ StoreDetail 페이지에서 찜한 가게를 모아볼 수 있는 페이지
 
 ![](https://images.velog.io/images/songbetter/post/95c71bc3-bf07-4d8f-8761-8113709502b9/image.png)
 
+## Review
+[블로그 바로가기](https://velog.io/@songbetter/%EC%A7%81%EB%B0%A9%EC%9D%84-%EB%AA%A8%ED%8B%B0%EB%B8%8C-%ED%95%9C-2%EC%B0%A8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A8%B9%EB%B0%A9)
